@@ -1,3 +1,9 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Tanushka Kommoju
+ */
+
+
 import java.util.Scanner;
 
 public class Main {
